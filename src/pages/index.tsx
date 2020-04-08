@@ -22,6 +22,8 @@ export default () => (
       <img src="static/abc.jpg" className="img-fluid"></img>
       <h1 className="mt-5">Font Job en Vigo</h1>
       <img src="static/blad.png" className="img-fluid"></img>
+      <h1 className="mt-5">Puzzelstuk</h1>
+      <img src="static/puzzel.jpg" className="img-fluid"></img>
     </div>
   </div>
 );
